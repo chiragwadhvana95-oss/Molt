@@ -1,0 +1,30 @@
+# Ignore automation logs
+automation.log
+*.log
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore temporary files
+tmp/
+(temp/
+.tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+
+# Environment files
+.env
+.env.local
