@@ -1,0 +1,1 @@
+ERROR: dump failed because resource AndroidManifest.xml not found

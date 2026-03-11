@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yourwebsite.com/sitemap.xml
+
+# Block private directories
+Disallow: /admin/
+Disallow: /private/
+
+# Block temporary files
+Disallow: /*.tmp$
+Disallow: /*.tmp/
+
+# Block development files
+Disallow: /*.log$
+Disallow: /*.bak$
+Disallow: /error_log
+
+# Rate limiting
+Crawl-delay: 1
