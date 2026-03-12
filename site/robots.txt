@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://chiragwadhvana95-oss.github.io/ai-productivity-hub/sitemap.xml
 
 # Block private directories
 Disallow: /admin/
